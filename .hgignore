@@ -1,0 +1,2 @@
+.*[.](fasl|lock|h)$
+.*(target)/.*
