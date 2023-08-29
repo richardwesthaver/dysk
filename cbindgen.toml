@@ -10,4 +10,4 @@ documentation = true
 documentation_style = "c99"
 usize_is_size_t = true
 [cython]
-header = '"dysk.h"'
+header = "dysk.h"
